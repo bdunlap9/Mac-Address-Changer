@@ -1,0 +1,10 @@
+c:\users\weeke\documents\visual studio 2017\Projects\Mac Address Changer\Mac Address Changer\bin\Debug\Mac Address Changer.exe.config
+c:\users\weeke\documents\visual studio 2017\Projects\Mac Address Changer\Mac Address Changer\bin\Debug\Mac Address Changer.exe
+c:\users\weeke\documents\visual studio 2017\Projects\Mac Address Changer\Mac Address Changer\bin\Debug\Mac Address Changer.pdb
+c:\users\weeke\documents\visual studio 2017\Projects\Mac Address Changer\Mac Address Changer\bin\Debug\Mac Address Changer.xml
+c:\users\weeke\documents\visual studio 2017\Projects\Mac Address Changer\Mac Address Changer\obj\Debug\Mac_Address_Changer.Form1.resources
+c:\users\weeke\documents\visual studio 2017\Projects\Mac Address Changer\Mac Address Changer\obj\Debug\Mac_Address_Changer.Resources.resources
+c:\users\weeke\documents\visual studio 2017\Projects\Mac Address Changer\Mac Address Changer\obj\Debug\Mac Address Changer.vbproj.GenerateResource.Cache
+c:\users\weeke\documents\visual studio 2017\Projects\Mac Address Changer\Mac Address Changer\obj\Debug\Mac Address Changer.exe
+c:\users\weeke\documents\visual studio 2017\Projects\Mac Address Changer\Mac Address Changer\obj\Debug\Mac Address Changer.xml
+c:\users\weeke\documents\visual studio 2017\Projects\Mac Address Changer\Mac Address Changer\obj\Debug\Mac Address Changer.pdb
